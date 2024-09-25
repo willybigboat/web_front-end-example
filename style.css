@@ -66,5 +66,25 @@ body {
     /* 外框 */
     border: 1px solid #51515150;
     /* 陰影 */
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 2px 2px 1px rgba(23, 5, 9, 0.2);
+}
+
+.wrapper .one {
+    background: #51515130;
+    color: aquamarine
+}
+
+.wrapper .two {
+    background: #51515130;
+    color: rgb(127, 172, 255)
+}
+
+.wrapper .three {
+    background: #51515190;
+    color: aquamarine
+}
+
+.wrapper .four {
+    background: rgba(81, 81, 81, 0.719);
+    color: aquamarine
 }
